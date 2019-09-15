@@ -14,7 +14,7 @@ DESCRIPTION:
 
 rm-roulette is a fun little script to play the most dangerous of games... rm -rf /
 
-In all seriousness I made this as a joke. Go ahead an play if you want, but actually be careful. Don't wanna actually go destroying important files.
+In all seriousness I made this as a joke. Go ahead and play if you want, but actually be careful. Don't wanna actually go destroying important files.
 
 FILES INCLUDED:
 
