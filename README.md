@@ -19,7 +19,7 @@ In all seriousness I made this as a joke. Go ahead and play if you want, but act
 FILES INCLUDED:
 
 1. roulette.py
-2. LISENCE
+2. LICENSE
 3. README.md
 
 
